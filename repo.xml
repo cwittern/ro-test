@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta 
+  xmlns="http://exist-db.org/xquery/repo">
+  <description>My amazing ro-test application</description>
+  <author>Chris</author>
+  <website>http://wittern.org</website>
+  <status>SNAPSHOT</status>
+  <license>AGPL-3.0</license>
+  <copyright>true</copyright>
+  <type>application</type>
+  <target>ro-test</target>
+  <prepare>pre-install.xq</prepare>
+  <finish>post-install.xq</finish>
+  <permissions user="tls" password="tls55" group="tls-user" mode="rw-rw-r--"/>
+</meta>
