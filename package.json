@@ -34,7 +34,7 @@
     "cypress": "^10.11.0",
     "fs-extra": "^10.1.0",
     "mocha": "^10.1.0",
-    "supertest": "^6.3.1",
+    "supertest": "^6.3.3",
     "xmldoc": "^1.2.0",
     "yeoman-assert": "^3.1.1"
   },
